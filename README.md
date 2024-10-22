@@ -1,0 +1,2 @@
+# DuplicateCodeDetectorLib
+Detects duplicate code.
